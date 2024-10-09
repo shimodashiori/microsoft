@@ -1,0 +1,72 @@
+技術力
+コミュニケーション力
+誤送信を起こさない（ダブルチェック）
+
+36協定※法律順守
+コンプラ
+
+Edge
+Vpn
+
+日報 17:30くらいまで
+※チームメンバー対象に、ケース対応開始
+
+1 on 1　今週末まで　viva learning
+
+Tech foundation
+→オンライントレーニング
+
+Hikaru Murai 大森在住　営業出身
+Mori Masaki　１年目　ネットワークエンジニア10年　元softbank
+Jumpei Togashi　CTFの開発　開発、組み込み出身
+
+Kazuki seki　softbank出身 1年ちょい　NWエンジニア　横浜　※DBの部署　　　　　transferもありかも？
+
+murakami san ベルポート　日立
+
+
+・Ayaka Nakamura 2020 新卒入社　横浜 情報学科出身　初日に顔合わせ済み
+・Bamba akari　美術学部出身⇒ベンチャーses⇒cell leader MS
+・Ayumi shimada
+・miyano michiru
+・rei ikei 10年選手　ネットワンシステムズ　神
+・shiro sanpei　今月北海道　cnex在籍 intuneサポート　2020年入社　野球　
+・kimさん 南大井住まい　1億
+・ishikawaさん 新卒
+・furukawa san 長野　データセンター出身
+kaoさん　ビール好き　社内IT
+takahiro nakagawa
+・kagamiya takashi NSSOL PM
+kawamura tatsuya バスケ
+okuhara toshifumi　派遣からCSS　22年
+muta tsubasa
+
+kiribayashi yuji
+kagaya yuta
+
+anna hagiwara
+takashi kato
+
+iwasaki san 3年で退職
+
+nakagawa san⇒
+
+miyano kawamura banba togashi 北海道出身 hagiwara san 北海道の大学
+
+
+CSSメンバー
+
+北海道出身、猫好き、
+
+
+CBCF→NET FOUNDATION→構築
+
+■KPI＝＞CPE/CSAT 4.9
+
+impact/reward
+⇒評価を得るには
+
+SEE⇒技術で強い
+
+Configuration manager⇒intune統合
+
